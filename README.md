@@ -1,4 +1,4 @@
-# Your First Learn Lab
+clear# Your First Learn Lab
 
 ## Problem Statement
 
